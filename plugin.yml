@@ -1,0 +1,14 @@
+name: Memkit
+main: com.lugtech.memkit.Memkit
+author: LugnutsK
+description: Bukkit memory anaylsis
+version: '1.0'
+commands: 
+ mem: 
+  description: 'Displays system load information'
+  usage: '/mem [threads|worlds|gc]'
+  permission: 'mem'
+permissions: 
+ mem: 
+  default: 'op'
+  description: 'Allows user to use /mem command'

@@ -1,4 +1,5 @@
 #Memkit
+![Memkit](http://i.imgur.com/ctS1Usq.png)  
 Memkit is a simple, light-weight bukkit plugin used for monitoring a server's use of memory, cpu, and more.
 
 ##Uses

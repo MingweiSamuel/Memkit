@@ -11,12 +11,14 @@ Memkit is a simple, light-weight bukkit plugin used for monitoring a server's us
 - Graphs RAM, CPU, threads, and players, alongside sent commands
 
 ##Quickstart
+
 ###Installation
 1. Download memkit.jar and save the file in your server's `plugins/` folder.
 2. Memkit will be run the next time your server restarts or `/reload` is used.
 Memkit can be configured after the first run by editing the configuration files in the `plugins/Memkit/` folder.
 
 ###Usage
+
 ####Commands
 - `/mem` - Displays a short summary of current server load
 - `/mem threads` - Displays all running threads and their current state based on color:  
